@@ -2,8 +2,6 @@
 CRUD Web App using ASP.NET CORE 2.1 MVC with Entity Framework + Bootstrap [Code First Approach]
 
 
-Welcome to the MVC-ASP.NET-CORE-2.1.-CRUD-Web-App wiki!
-
 ***
 
 # Demo Images:
